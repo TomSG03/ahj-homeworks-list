@@ -6,4 +6,4 @@
 
 
 ---
-[Спискок курсов](https://github.com/TomSG03/ahs-homeworks-list)
+[Спискок курсов](https://github.com/TomSG03/Training-in-Netology)
