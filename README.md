@@ -5,6 +5,9 @@
 - [x] [Организация тестирования](https://github.com/TomSG03/ahj-testing-validator-v2)
 - [x] [Работа с HTML-формами](https://github.com/TomSG03/ahj-forms-popovers)
 - [x] [DnD](https://github.com/TomSG03/ahj-dnd-trello)
+- [x] [Http](https://github.com/TomSG03/ahj-http-helpdesk)
+- [x] [WS](https://github.com/TomSG03/ahj-ws-chat-fe)
+- [x] [Animation](https://github.com/TomSG03/ahj-animation-collapse)
 
 
 ---
