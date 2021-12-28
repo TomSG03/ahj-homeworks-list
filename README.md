@@ -9,6 +9,7 @@
 - [x] [WS](https://github.com/TomSG03/ahj-ws-chat-fe)
 - [x] [Animation](https://github.com/TomSG03/ahj-animation-collapse)
 - [x] [Geo, Notification, Media](https://github.com/TomSG03/ahj-media-geoposition)
+- [x] [RxJS](https://github.com/TomSG03/ahj-rxjs-polling)
 
 
 ---
