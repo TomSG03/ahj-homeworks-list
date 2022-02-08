@@ -10,7 +10,8 @@
 - [x] [Animation](https://github.com/TomSG03/ahj-animation-collapse)
 - [x] [Geo, Notification, Media](https://github.com/TomSG03/ahj-media-geoposition)
 - [x] [RxJS](https://github.com/TomSG03/ahj-rxjs-polling)
-
+----
+- [x] [Итоговая работа](https://github.com/TomSG03/ahj-diplom-v2)
 
 ---
 [Спискок курсов](https://github.com/TomSG03/Training-in-Netology)
